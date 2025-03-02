@@ -1,0 +1,23 @@
+#navbar {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navh1 {
+  width: 20%;
+  margin-left: 50px;
+}
+.navlink {
+  width: 40%;
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+}
+.btn {
+  width: 15%;
+  margin-right: 50px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}

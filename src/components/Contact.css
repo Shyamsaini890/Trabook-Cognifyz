@@ -1,0 +1,13 @@
+.skills {
+  border: 2px solid black;
+  width: 800px;
+  height: 325px;
+  border-radius: 20px;
+  background: #fa7436;
+  border: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
